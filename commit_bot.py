@@ -10,6 +10,6 @@ while 1:
   os.system("git add .")
   os.system("git commit -m 'Add new timestamp to time_date_log'")
   os.system("git push")
-  time.sleep(random.randint(60))
+  time.sleep(random.randint(0, 60))
 
 
