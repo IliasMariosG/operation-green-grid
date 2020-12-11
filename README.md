@@ -1,4 +1,4 @@
-# Comit bot
+# Commit bot
 ## aka "Operation Green Grid"
 ### By John Baxter
 ***
