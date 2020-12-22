@@ -36,7 +36,7 @@ The project currently has the following features:
 - Opened and run through the command line
 - Adds a new line of text consisting of a date-time stamp into a `.txt` file
 - Saves, `add`s, `commit`s  and `push`es the new update to GitHub
-- Repeatedly adds, puches etc. at random intervals of between 30 and 60 minutes
+- Repeatedly adds, pushes etc. at random intervals of between 30 and 60 minutes
 - Continues running unsupervised until the user stops the program
 
 ## [^](#by-john-baxter)Code example
